@@ -1,8 +1,9 @@
-# Hi, I'm Fiona 👋
+# Hi, I'm Fiona Karegi👋
 
 Data Scientist | Machine Learning Engineer | Data Analyst
 
-I specialize in building data-driven solutions using machine learning, analytics, and AI to solve real-world problems. I have 2+ years of experience working with data and developing intelligent systems.
+I specialize in building data-driven solutions using machine learning, analytics, and AI to solve real-world problems. I have 2+ years of experience working with data and developing intelligent systems. 
+Currently seeking Data Analyst / Data Scientist opportunities
 
 ---
 
